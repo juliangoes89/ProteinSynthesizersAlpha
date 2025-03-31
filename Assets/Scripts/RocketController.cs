@@ -119,7 +119,7 @@ public class RocketController : MonoBehaviour
 					}
 					currentCodonTag = codonTags[currentCodonIndex];
 					currentAminoacid = aminoAcidMaterials[currentCodonIndex];
-				}else if(currentCodonIndex == codonPrefabs.Length){
+				}else if(currentCodonIndex == codonPrefabs.Length && !gameManager.isGameOver){
 					Debug.Log("Terminó la cadena");
 					gameManager.GameWin();
 				}
