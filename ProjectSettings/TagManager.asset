@@ -23,6 +23,9 @@ TagManager:
   - UUG
   - UGA
   - ACU
+  - CCG
+  - AAU
+  - GUU
   layers:
   - Default
   - TransparentFX

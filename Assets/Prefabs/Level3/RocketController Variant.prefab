@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6723786388541167861
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 332876533929688926, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_Name
+      value: RocketController Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.198936
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.2264113
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.5831032
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599128122861031139, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: codonPrefabs.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: 'codonPrefabs.Array.data[3]'
+      value: 
+      objectReference: {fileID: 3208127663450626408, guid: b2d6c807b56df9d4eb741479f0878da4, type: 3}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: 'codonPrefabs.Array.data[4]'
+      value: 
+      objectReference: {fileID: 3208127663450626408, guid: a0ceb634385b02743bdd391af03d3d5f, type: 3}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: 'codonPrefabs.Array.data[5]'
+      value: 
+      objectReference: {fileID: 3208127663450626408, guid: c77ca1653e9f0dc40a59852029296936, type: 3}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: aminoAcidMaterials.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: 'aminoAcidMaterials.Array.data[3]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 265484a13932d7343854d866bbf3dfef, type: 2}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: 'aminoAcidMaterials.Array.data[4]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 56939037694639545bdf9df8e469ebfe, type: 2}
+    - target: {fileID: 9031246939075752966, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
+      propertyPath: 'aminoAcidMaterials.Array.data[5]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b3eb77ff4344f7747a74cc4cb97863dc, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2850314a89eeaab4ab362f4171a7d340, type: 3}
