@@ -27,8 +27,8 @@ public class CollisionHandler : MonoBehaviour
 		antiCodonsAndCodonsDictionary.Add("UAC", "AUG");
 		antiCodonsAndCodonsDictionary.Add("UGG", "ACC");
 		antiCodonsAndCodonsDictionary.Add("UUG", "AAC");
-		antiCodonsAndCodonsDictionary.Add("AAU", "CCG");
-		antiCodonsAndCodonsDictionary.Add("GUU", "UGG");
+		antiCodonsAndCodonsDictionary.Add("GGC", "CCG");
+		antiCodonsAndCodonsDictionary.Add("ACC", "UGG");
 		antiCodonsAndCodonsDictionary.Add("ACU", "UGA");
 		gameManager = FindFirstObjectByType<GameManager>();
 	}

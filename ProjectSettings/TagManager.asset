@@ -26,6 +26,7 @@ TagManager:
   - CCG
   - AAU
   - GUU
+  - GGC
   layers:
   - Default
   - TransparentFX
